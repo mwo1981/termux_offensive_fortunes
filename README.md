@@ -1,4 +1,4 @@
-if you encounter the fish pathing error Can't open /usr/games/lib/fortunes:
+if you encounter the fish Shell path error "Can't open" /usr/games/lib/fortunes:
 
 set -Ua fish_user_paths /data/data/com.termux/files/usr/share/games/fortunes
 
