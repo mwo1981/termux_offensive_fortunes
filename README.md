@@ -1,6 +1,9 @@
-Decrypted originals fir your shell dot file or to receive a random unflagged offensive fortune in termux •
+Original BSD random fortunes decrypted backups, along with my custom "0" file personal backup.
 
-THE TERMUX PROGRAM MAN PAGE AND SHELL SCRIPT BOTH REFERENCE A DEBIAN SOURCE WHICH DOES NOT USE THE STRFILE UTILITY PROGRAM SO IT DOES NOT REQUIRE "DOT DAT" FILES
+Note: the data in these text files are considered to be adult content, ty.
+
+
+THE TERMUX FORTUNE PROGRAM BUILDS FROM A DEBIAN SOURCE WHICH HANDLES THE STRFILE UTILITY UPSTREAM AND DOES NOT REQUIRE THE LOCAL INSTALLATION "DOT DAT" FILES. THIS MEANS TRADITIONAL FLAGS WILL NOT WORK, AS THE MANPAGE CONFIRMS
 
 
 If you encounter the fish Shell path error "Can't open" /usr/games/lib/fortunes:
